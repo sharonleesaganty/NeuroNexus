@@ -1,4 +1,4 @@
-# NeuroNexus
+# TASK 1 - LANDING PAGE
 
 **Google Form Clone**
 A lightweight, responsive web form that mimics the look and feel of Google Forms using only HTML and CSS (no JavaScript).
